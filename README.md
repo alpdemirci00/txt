@@ -1,1 +1,1 @@
-{"$update":"1","url":"play.google.com/store/apps/details?id=com.langer.runlanger"}
+{"$update":"1","url":"https://play.google.com/store/apps/details?id=com.langer.runlanger"}
